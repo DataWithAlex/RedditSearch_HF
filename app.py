@@ -4,6 +4,8 @@ import requests
 from PIL import Image
 import io
 
+x = "test"
+
 
 # Define Streamlit app interface
 st.set_page_config(layout="wide")
